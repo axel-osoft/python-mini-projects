@@ -6,6 +6,8 @@
 
 # Python-Mini-Projects
 
+Dummy change
+
 [![All Contributors](https://img.shields.io/github/contributors/Python-World/python-mini-projects)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/Python-World/python-mini-projects)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Python-World/python-mini-projects?)
